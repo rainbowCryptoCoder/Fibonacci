@@ -1,4 +1,4 @@
-package com.zecolloauth.zecolloauth;
+package com.rainbowcryptocoder.fibonacci;
 
 import org.junit.Test;
 

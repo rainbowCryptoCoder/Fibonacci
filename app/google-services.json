@@ -1,39 +1,44 @@
 {
   "project_info": {
-    "project_number": "781044059177",
-    "firebase_url": "https://zecolloauthentication.firebaseio.com",
-    "project_id": "zecolloauthentication",
-    "storage_bucket": "zecolloauthentication.appspot.com"
+    "project_number": "324190800864",
+    "project_id": "fibonacci-fdcf9",
+    "storage_bucket": "fibonacci-fdcf9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:781044059177:android:fb2e8f13f4e28f2f",
+        "mobilesdk_app_id": "1:324190800864:android:0ff19167e078f69760b985",
         "android_client_info": {
-          "package_name": "com.zecolloauth.zecolloauth"
+          "package_name": "com.rainbowcryptocoder.fibonacci"
         }
       },
       "oauth_client": [
         {
-          "client_id": "781044059177-jgfe09l7nophj7bbtslt7ttl8uq3lbkd.apps.googleusercontent.com",
+          "client_id": "324190800864-l7h05uft29vdmgsn189ae7g5i4lfains.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rainbowcryptocoder.fibonacci",
+            "certificate_hash": "5fe2c5dc5b993eb8a4a5ae7e00c78e711af895f1"
+          }
+        },
+        {
+          "client_id": "324190800864-mge1l94pa90km332eem8qt85i5rhlbkf.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAwYhsLCoYtQ0C4OjaYUCIZKhTtri8rwrk"
+          "current_key": "AIzaSyAas4xK7eN9z3xm5waVfZYEWZjqXag_j0c"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324190800864-mge1l94pa90km332eem8qt85i5rhlbkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }

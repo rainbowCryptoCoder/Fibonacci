@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.zecolloauth.zecolloauth">
+    package="com.rainbowcryptocoder.fibonacci">
 
     <!-- adds the INTERNET permission as we need to make network calls. -->
     <uses-permission android:name="android.permission.INTERNET" />
@@ -12,17 +12,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <activity android:name=".LoginActivity">
+        <activity android:name="com.rainbowcryptocoder.fibonacci.LoginActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".MainActivity" />
-        <activity android:name=".ResetPasswordActivity" />
-        <activity android:name=".SignupActivity" />
-        <activity android:name=".AccountActivity"></activity>
+        <activity android:name="com.rainbowcryptocoder.fibonacci.MainActivity" />
+        <activity android:name="com.rainbowcryptocoder.fibonacci.ResetPasswordActivity" />
+        <activity android:name="com.rainbowcryptocoder.fibonacci.SignupActivity" />
+        <activity android:name="com.rainbowcryptocoder.fibonacci.AccountActivity"></activity>
     </application>
 
 </manifest>

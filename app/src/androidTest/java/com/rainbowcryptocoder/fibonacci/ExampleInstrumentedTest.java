@@ -1,4 +1,4 @@
-package com.zecolloauth.zecolloauth;
+package com.rainbowcryptocoder.fibonacci;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.zecolloauth.zecolloauth", appContext.getPackageName());
+        assertEquals("com.rainbowcryptocoder.fibonacci", appContext.getPackageName());
     }
 }
