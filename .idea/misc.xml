@@ -3,10 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/font/archistico_simple.xml" value="0.2074074074074074" />
+        <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/font/font.xml" value="0.2074074074074074" />
+        <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/font/font2.xml" value="0.2074074074074074" />
+        <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/layout/activity_account.xml" value="0.1648148148148148" />
         <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/layout/activity_login.xml" value="0.1648148148148148" />
         <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/layout/activity_main.xml" value="0.2140625" />
         <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/layout/activity_reset_password.xml" value="0.2140625" />
         <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/layout/activity_signup.xml" value="0.2140625" />
+        <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/layout/app_bar.xml" value="0.2140625" />
+        <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/menu/menu.xml" value="0.1648148148148148" />
+        <entry key="..\:/AndroidProjects/FireBase-Authentication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_new.xml" value="0.112" />
       </map>
     </option>
   </component>
