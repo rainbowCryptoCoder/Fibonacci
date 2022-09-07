@@ -78,6 +78,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void calculateFibonachiSeries(int firstTerm, int secondTerm) {
         StringBuilder stringBuilder = new StringBuilder();
+        n = Integer.parseInt(et_series_length.getText().toString());
         for (int i = 1; i <= n; ++i) {
             if (i == n){
                 stringBuilder.append(firstTerm);

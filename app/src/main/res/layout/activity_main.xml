@@ -38,7 +38,7 @@
             android:layout_marginBottom="10dp"
             android:fontFamily="casual"
             android:hint="Please enter first value"
-            android:maxLength="1"
+            android:maxLength="2"
             android:inputType="number"
             android:textColor="@color/colorTransparentPink"
             android:theme="@style/CustomInputStyle"/>
@@ -56,7 +56,7 @@
             android:layout_marginBottom="10dp"
             android:drawablePadding="12dp"
             android:ems="20"
-            android:maxLength="1"
+            android:maxLength="2"
             android:hint="Please enter first value"
             android:inputType="number"
             android:fontFamily="casual"
