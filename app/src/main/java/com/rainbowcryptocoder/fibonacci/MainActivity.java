@@ -36,6 +36,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        Toolbar toolbar = (Toolbar) findViewById(R.id.app_bar);
+        setSupportActionBar(toolbar);
+
         tv_solution = findViewById(R.id.tv_solution);
         et_series_length = findViewById(R.id.et_series_length);
         et_input_1 = findViewById(R.id.et_input_1);
